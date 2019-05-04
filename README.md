@@ -5,7 +5,7 @@ It creates an XMLHR request to pull data from the project's JSON file.
 As part of building the request, we added event listeners for load and error events and called a function in each case.  
 Console.logs and console.errors served as the means of testing the code.  
 ### Screenshots  
-![]()
+![Screenshot of minimal page with title and danger button](https://raw.githubusercontent.com/sarahjulesthorne/theme-park/master/images/screenshot.png "Screenshot of minimal page with title and danger button")
 ### Getting Started  
 Clone the project down:  
 ```  
